@@ -143,24 +143,6 @@ footer p {
     background-image: #ffffff;
 }
 
-.h1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 3.5rem;
-}
-
-.h2 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 3rem;
-}
-
-.h3 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    font-size: 3rem;
-}
-
 .color1 {
     color: #ffffff;
 }
@@ -173,50 +155,8 @@ footer p {
     margin-top: 5rem;
 }
 
-.marginTop10 {
-    margin-top: 10rem;
-}
-
-.marginTop15 {
-    margin-top: 15rem;
-}
-
-.marginTop20 {
-    margin-top: 20rem;
-}
-
-.marginTop25 {
-    margin-top: 25rem;
-}
-
 .marginButon5 {
     margin-bottom: 5rem;
-}
-
-.marginButon10 {
-    margin-bottom: 10rem;
-}
-
-.marginButon15 {
-    margin-bottom: 15rem;
-}
-
-.marginButon20 {
-    margin-bottom: 20rem;
-}
-
-.marginButon25 {
-    margin-bottom: 25rem;
-}
-
-.margenRL15 {
-    margin-right: 15rem !important;
-    margin-left: 15rem !important;
-}
-
-.margenRL10 {
-    margin-right: 10rem !important;
-    margin-left: 10rem !important;
 }
 
 .btn.btn-rounded {
@@ -227,26 +167,4 @@ footer p {
     font-size: 16px;
     padding: 11px40px;
     line-height: 1.8em;
-}
-
-.navbar-nav {
-    flex-direction: row;
-}
-
-.nav-link {
-    padding-right: .5rem !important;
-    padding-left: .5rem !important;
-}
-
-
-/* Fixes dropdown menus placed on the right side */
-
-.ml-auto .dropdown-menu {
-    left: auto !important;
-    right: 0px;
-}
-
-.navbar-fixed-top.scrolled {
-    background-color: rgb(221, 0, 0) !important;
-    transition: background-color 200ms linear;
 }
